@@ -2,20 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "P": {
-      "item": "minecraft:glass_bottle"
+      "item": "minecraft:hay_block"
     },
     "X": {
-      "item": "minecolonies:mistletoe"
+      "item": "minecraft:wheat"
     }
   },
   "pattern": [
-    "   ",
+    "XXX",
     "XPX",
-    "   "
+    "XXX"
   ],
   "result": {
-    "item": "minecolonies:magicpotion",
-	"count": 1
+    "item": "minecolonies:milky_bread",
+	"count": 4
   },
   "show_notification": false
 }
