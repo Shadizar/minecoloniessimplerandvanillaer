@@ -11,7 +11,7 @@
   "pattern": [
     " B ",
     "BBB",
-    "HHH"
+    "H H"
   ],
   "result": {
     "item": "minecolonies:pirate_hat",
